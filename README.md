@@ -43,7 +43,8 @@ During the development of the platform, several challenges were encountered and 
 ---
 
 ## **Screenshots**  
-*(Add screenshots of the platform here)*  
+ 
+![Screenshot 2025-03-10 212627](https://github.com/user-attachments/assets/23e81e27-1c46-42b9-b348-13e8c2f144cd)
 
 ---
 
