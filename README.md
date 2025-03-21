@@ -45,6 +45,10 @@ During the development of the platform, several challenges were encountered and 
 ## **Screenshots**  
  
 ![Screenshot 2025-03-10 212627](https://github.com/user-attachments/assets/23e81e27-1c46-42b9-b348-13e8c2f144cd)
+![Screenshot 2025-03-10 220719](https://github.com/user-attachments/assets/db0c8520-5a41-4158-8c10-c09a80827f66)
+![Screenshot 2025-03-10 220833](https://github.com/user-attachments/assets/cc939a75-a58f-4890-b5ab-7f7c9b6e5bf1)
+![Screenshot 2![Screenshot 2025-03-10 212552](https://github.com/user-attachments/assets/09f98489-8239-444a-a11f-03f9d7ea7fac)
+025-03-10 220522](https://github.com/user-attachments/assets/a302a644-05bc-4e25-84f7-3af5dee36a22)
 
 ---
 
