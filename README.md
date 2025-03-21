@@ -106,11 +106,6 @@ git push origin feature-branch
 
 ---
 
-## **Project Link**  
-- **GitHub Repository:** [Insert GitHub link]  
-- **Live Site:** [Insert working site link]  
-
----
 
 ## **License**  
 This project is licensed under the [MIT License](LICENSE).  
